@@ -12,7 +12,7 @@ The New Relic Samba Plugin enables monitoring Samba, and it reports the followin
 The Samba monitoring Plugin for New Relic requires the following:
 
 * A New Relic account. Signup for a free account at http://newrelic.com
-* You need a host to install the plugin on that is able to poll the desired Samba server. That host also needs Ruby (tested with 1.8.7, 1.9.3), and support for rubygems.
+* You need to install this plugin on a Samba server. That host also needs Ruby (tested with 1.8.7, 1.9.3), and support for rubygems.
 
 ### Instructions for running the Samba agent
 
